@@ -1,9 +1,3 @@
-下面这份 **README.md** 已按典型 GitHub 项目的格式写好，直接复制保存为 `README.md`（或在仓库新建该文件）即可。
-如果后续想加截图，只需把图片放进 `docs/` 或 `assets/` 目录后，在相应位置插入 Markdown 引用即可。
-
----
-
-```markdown
 # FileIntegritySystem · 基于 SM3 的文件完整性保护工具
 
 > 版本 v0.1.2  · 仅供学习与实验使用，禁止商业用途  
