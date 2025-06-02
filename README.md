@@ -144,5 +144,3 @@ pyinstaller -F -n FileIntegritySystem ^
 
 > 如果本项目对你有帮助，记得 Star ⭐ 一下！
 
----  
-建议把 `Pillow` 写进 `requirements.txt` 方便 `pip install -r requirements.txt`；如日后添加依赖（例如 `PyInstaller`、`flake8`），也一并列在该文件即可。祝你上传顺利，实验报告拿满分！
